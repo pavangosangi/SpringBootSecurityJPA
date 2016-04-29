@@ -1,0 +1,24 @@
+body.loginPage{
+    background-image: url(/resources/images/library.jpeg);
+    background-size: 100% 105%;
+    background-repeat: no-repeat;
+    background-color: grey;
+}
+
+html.error-page {
+	background-color: grey;
+}
+
+@media screen and (min-width: 768px) {
+    .modal-dialog {
+        left: auto;
+        right: auto;
+        margin-top: 230px;
+        width: 624px;
+        opacity: 0.6;
+    }
+    
+    .modal-content {
+        background-color: lightgrey;
+    }
+}

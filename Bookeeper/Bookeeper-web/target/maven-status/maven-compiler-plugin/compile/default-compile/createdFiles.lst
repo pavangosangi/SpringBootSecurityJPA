@@ -1,0 +1,12 @@
+org\book\keeper\repositories\UserRepository.class
+org\book\keeper\controller\HomeController.class
+org\book\keeper\security\CustomUserDetails.class
+org\book\keeper\application\Application.class
+org\book\keeper\entities\UserRole.class
+org\book\keeper\model\Book.class
+org\book\keeper\model\ErrorMessage.class
+org\book\keeper\configuration\WebSecurityConfig.class
+org\book\keeper\entities\LoginInfo.class
+org\book\keeper\repositories\UserRoleRepository.class
+org\book\keeper\controller\LoginController.class
+org\book\keeper\security\CustomerUserDetailsService.class
